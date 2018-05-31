@@ -1,0 +1,37 @@
+languageCode = "en-us"
+title = "Katylnn Mathis"
+baseurl = "http://katlynnmathis.com/"
+theme = "aerial"
+
+[params]
+  name = "Katlynn Mathis"
+  about = "Researcher &nbsp;&bull;&nbsp; Climber &nbsp;&bull;&nbsp; Dog Lover"
+  copyright = "2018 Katylnn Mathis"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "Pinterest"
+  icon = "pinterest"
+  link = "#"
+
+[[params.social]]
+  medium = "LinkedIn"
+  icon = "linkedin"
+  link = "#"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "#"
