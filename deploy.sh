@@ -2,7 +2,7 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
-hugo -t hugo-split-theme # if using a theme, replace with `hugo -t <yourtheme>`
+hugo -t aerial # if using a theme, replace with `hugo -t <yourtheme>`
 
 # Go To Public folder
 cd docs
@@ -10,7 +10,7 @@ cd docs
 git add .
 
 # Commit changes
-msg="rebuiling site `date`"
+msg="rebuilding site `date`"
 if [ $# -eq 1 ]
 then msg="$1"
 fi
