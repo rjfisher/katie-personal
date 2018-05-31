@@ -2,6 +2,10 @@ languageCode = "en-us"
 title = "Katylnn Mathis"
 baseurl = "http://katlynnmathis.com/"
 theme = "aerial"
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
+
+# Publish Directory for GitHub pages
+publishDir = "docs"
 
 [params]
   name = "Katlynn Mathis"
