@@ -18,24 +18,24 @@ publishDir = "docs"
 [[params.social]]
   medium = "Instagram"
   icon = "instagram"
-  link = "#"
+  link = "https://www.instagram.com/katie_mathis/"
 
 [[params.social]]
   medium = "Facebook"
   icon = "facebook"
-  link = "#"
+  link = "https://www.facebook.com/kmm619"
 
 [[params.social]]
   medium = "Pinterest"
   icon = "pinterest"
-  link = "#"
+  link = "http://www.pinterest.com/kmmathis1"
 
 [[params.social]]
   medium = "LinkedIn"
   icon = "linkedin"
-  link = "#"
+  link = "https://www.linkedin.com/in/katie-mathis-889765a/"
 
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "#"
+  link = "mailto://katlynn.mathis@gmail.com"
