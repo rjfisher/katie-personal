@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "Katylnn Mathis"
+title = "Katlynn Mathis"
 baseurl = "http://katlynnmathis.com/"
 theme = "aerial"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
